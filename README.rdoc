@@ -1,3 +1,8 @@
+--------------NOTE--------------
+My progress on the Ruby Koans, set really cool set of excersizes for learning about the Ruby langauge.  I pushed them to here so I'd have an easy way to work on them.  The the readme for the Koans you can find below, if you're interested.
+-------------ENDNOTE------------
+
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
