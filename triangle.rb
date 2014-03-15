@@ -20,12 +20,13 @@ def triangle(a, b, c)
   other_sides = sides.select { |x| x != biggest_side } 
   
 
-  if sides.bsearch { |x| x <= 0 }
+  if sides.any? { |x| x <= 0 }
     raise TriangleError
-  elsif ((a>=(b+c)) || ( b>=(a+c) ) || (c>=(a+b)))
+  elsif (a>=b+c || b>=a+c || c>=a+b)
     raise TriangleError
   end
-  if a == b and b == c 
+
+  if a == b && a == c && b == c
     return :equilateral
   elsif a != b and a != c and b != c
     return :scalene
