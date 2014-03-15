@@ -1,4 +1,4 @@
-My progress on the Ruby Koans, a set really cool set of excersizes for learning about the Ruby langauge.  I pushed them to here so I'd have an easy way to work on them cross-platform.  The the README for the Koans you can find below, if you're interested.
+My completed work on the Ruby Koans, a really cool set of excersizes for learning about the Ruby langauge.  I pushed them to here so I'd have an easy way to work on them cross-platform.  The the README for the Koans you can find below, if you're interested I highly recommend it if you're looking to get a better sense of the language under your fingers.
 
 
 = Neo Ruby Koans
